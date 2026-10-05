@@ -45,3 +45,18 @@
 - 🚗 **[CAR-PRICE-PREDICTOR](https://github.com/mdinzemam/Car-Price-Predictor)** — Supervised Machine Learning model to estimate used car prices based on vehicle attributes.
 - 🥐 **[BREA-AND-BITE](https://github.com/mdinzemam/BREA-AND-BITE)** — Modern commercial web platform featuring dynamic UI assets and interactive media.
 -
+
+---
+
+### 🔥 Contribution Streak & Metrics
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mdinzemam&theme=dark&hide_border=true&border_radius=8" alt="GitHub Streak" width="95%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdinzemam&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdinzemam&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
+</div>
